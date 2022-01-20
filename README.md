@@ -1,1 +1,3 @@
-# Token_ring
+# Token_ring_Algoritması
+
+Fiziksel topoloji ile bir ağdaki cihazların ve kabloların fiziksel yerleşimi, bir ağdaki farklı öğelerin düzenlenmesi gösterilmektedir. Düğümlerin yani bilgisayarların, ağ kablolarının yerleşim düzeni, ağın kurulum kolaylığına bağlıdır. Düğümlerin yerleşimi ve aralarındaki mesafe, maliyet ve bant genişliği kapasiteleri de dikkate alınarak düzenlemeler yapılmaktadır. Bir ağdaki fiziksel topoloji için pek çok seçenek bulunmaktadır. Bu çalışmada ise topolojilerden en çok tercih edilen Token Ring yapısı, protokolü, frame formatı ve algoritması ile ilgili çalışma yapılmıştır.
