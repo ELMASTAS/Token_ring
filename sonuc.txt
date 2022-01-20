@@ -1,0 +1,4 @@
+Düðüm Sayýsý: 79 
+Gönderen Düðüm: 2 Alýcý Düðüm: 67 Gönderilen Veri: 1111 Gönderme Süresi: 0.0050151 
+Gönderen Düðüm: 3 Alýcý Düðüm: 67 Gönderilen Veri: 1111 Gönderme Süresi: 0.0021212 
+Gönderen Düðüm: 4 Alýcý Düðüm: 50 Gönderilen Veri: 1111 Gönderme Süresi: 0.0013817 
